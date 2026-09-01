@@ -53,4 +53,4 @@ L'application s'ouvre ensuite sur `http://localhost:8501`.
 
 ## Auteur
 
-*(Ton nom / lien LinkedIn / GitHub)*
+*Kylian GRENIER*
