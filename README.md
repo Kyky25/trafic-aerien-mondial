@@ -6,7 +6,7 @@ Application interactive de visualisation du transport aérien mondial (nombre de
 
 ## Aperçu
 
-*(Ajoute ici une capture d'écran de l'application une fois déployée — glisse simplement l'image dans ce fichier sur GitHub, ou ajoute `![Aperçu](screenshot.png)` en pointant vers un fichier image du dépôt)*
+<img width="1907" height="950" alt="image" src="https://github.com/user-attachments/assets/f344b639-371a-40ef-a363-27848bd95c01" />
 
 ## Fonctionnalités
 
