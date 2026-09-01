@@ -2,7 +2,7 @@
 
 Application interactive de visualisation du transport aérien mondial (nombre de passagers transportés) par pays et par période, de 1970 à aujourd'hui.
 
-🔗 **[Voir l'application en ligne](https://ton-app.streamlit.app)** *(à remplacer par ton lien Streamlit Cloud)*
+🔗 **[Voir l'application en ligne](https://app-test-kylian.streamlit.app/)** 
 
 ## Aperçu
 
@@ -29,7 +29,7 @@ Les données proviennent de [Our World in Data](https://ourworldindata.org/graph
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/TON-PSEUDO/trafic-aerien-mondial.git
+git clone https://github.com/Kyky25/trafic-aerien-mondial.git
 cd trafic-aerien-mondial
 
 # Créer et activer un environnement virtuel
